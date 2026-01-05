@@ -13,11 +13,13 @@ towards Data Science.
 - Strings and string functions
 - Conditional statements (if-elif-else)
 - Lists and Tuples
+- Dictionary And Sets
 
 ## Files
-- first_program.py → Python basics, variables, operators
-- secondlec.py → Strings and conditional statements
-- thirdlec.py → Lists and tuples with examples
+- first_program.py -> Python basics, variables, operators
+- secondlec.py ->Strings and conditional statements
+- thirdlec.py -> Lists and tuples with examples
+- fourthlec.py -> Dictionary And Sets with examples 
 
 ## About Me
 I am a B.Tech student learning Python and Data Science.
